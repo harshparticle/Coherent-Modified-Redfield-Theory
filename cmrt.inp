@@ -1,0 +1,5 @@
+4               !! nquant
+10.d-12         !! tot_time 
+1.d-15          !! dt 
+1729 3141       !! seed2
+x
